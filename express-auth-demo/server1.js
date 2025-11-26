@@ -15,6 +15,11 @@ app.use(cors({
 
 app.use("/api/auth", require("./routes/authRoutes"));
 
+app.get("/", (req, res) => {
+  res.send("Response from SERVER 1");
+});
+
+
 app.listen(process.env.PORT, () => {
   console.log(`Server running on port ${process.env.PORT}`);
 });

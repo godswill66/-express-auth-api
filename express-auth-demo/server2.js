@@ -7,5 +7,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Server 2 running on port 5002");
+  console.log("Server 2 running on port 3000");
 });

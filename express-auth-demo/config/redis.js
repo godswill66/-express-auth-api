@@ -15,4 +15,5 @@ const redis = new Redis({
       enableReadyCheck: false, 
 });
 
+
 module.exports = redis;
