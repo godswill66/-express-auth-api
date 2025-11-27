@@ -46,6 +46,6 @@ project-root/
 **1. Clone the project**
 ```bash
 git clone <epress-auth-demo>
-cd project-folder
+cd epress-auth-demo
 
 └── README.md
