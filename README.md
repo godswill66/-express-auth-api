@@ -45,7 +45,7 @@ project-root/
 🛠 Installation (Windows)
 **1. Clone the project**
 ```bash
-git clone <epress-auth-demo>
-cd epress-auth-demo
+git clone <epress-auth-api>
+cd epress-auth-api
 
 └── README.md
